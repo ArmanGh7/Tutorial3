@@ -1,5 +1,5 @@
 GitHub Pull Request Demo
 Version 2.0
 This change was added via a pull request.
-This is a new line for this project.
 Version 2 is started.
+Thia is the rest of version 2
